@@ -83,6 +83,7 @@ A list of Kafka projects to help me deep dive into kafka
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Kafka](https://getbootstrap.com)
 * [Maven](https://jquery.com)
+* [Twitter Hosebird Client](https://github.com/twitter/hbc)
 
 
 
