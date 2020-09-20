@@ -31,7 +31,20 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ConsumerDemoWithThread">
+  <component name="RunManager" selected="Application.ConsumerAssignSeek">
+    <configuration name="ConsumerAssignSeek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chufanxiao.kafka.tutorial1.ConsumerAssignSeek" />
+      <module name="kafkabeginner" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chufanxiao.kafka.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ConsumerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.chufanxiao.kafka.tutorial1.ConsumerDemo" />
       <module name="kafkabeginner" />
@@ -89,9 +102,11 @@
       <item itemvalue="Application.ConsumerDemoGroups" />
       <item itemvalue="Application.ProducerDemo" />
       <item itemvalue="Application.ConsumerDemoWithThread" />
+      <item itemvalue="Application.ConsumerAssignSeek" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerAssignSeek" />
         <item itemvalue="Application.ConsumerDemoWithThread" />
         <item itemvalue="Application.ProducerDemo" />
         <item itemvalue="Application.ConsumerDemoGroups" />
@@ -125,22 +140,22 @@
       <screen x="40" y="23" width="3400" height="1417" />
     </state>
     <state x="2199" y="449" key="#com.intellij.ide.util.MemberChooser/40.23.3400.1417@40.23.3400.1417" timestamp="1600560947523" />
-    <state width="1836" height="481" key="GridCell.Tab.0.bottom" timestamp="1600563079508">
+    <state width="1836" height="481" key="GridCell.Tab.0.bottom" timestamp="1600564493361">
       <screen x="40" y="23" width="3400" height="1417" />
     </state>
-    <state width="1836" height="481" key="GridCell.Tab.0.bottom/40.23.3400.1417@40.23.3400.1417" timestamp="1600563079508" />
-    <state width="1836" height="481" key="GridCell.Tab.0.center" timestamp="1600563079506">
+    <state width="1836" height="481" key="GridCell.Tab.0.bottom/40.23.3400.1417@40.23.3400.1417" timestamp="1600564493361" />
+    <state width="1836" height="481" key="GridCell.Tab.0.center" timestamp="1600564493360">
       <screen x="40" y="23" width="3400" height="1417" />
     </state>
-    <state width="1836" height="481" key="GridCell.Tab.0.center/40.23.3400.1417@40.23.3400.1417" timestamp="1600563079506" />
-    <state width="1836" height="481" key="GridCell.Tab.0.left" timestamp="1600563079506">
+    <state width="1836" height="481" key="GridCell.Tab.0.center/40.23.3400.1417@40.23.3400.1417" timestamp="1600564493360" />
+    <state width="1836" height="481" key="GridCell.Tab.0.left" timestamp="1600564493360">
       <screen x="40" y="23" width="3400" height="1417" />
     </state>
-    <state width="1836" height="481" key="GridCell.Tab.0.left/40.23.3400.1417@40.23.3400.1417" timestamp="1600563079506" />
-    <state width="1836" height="481" key="GridCell.Tab.0.right" timestamp="1600563079507">
+    <state width="1836" height="481" key="GridCell.Tab.0.left/40.23.3400.1417@40.23.3400.1417" timestamp="1600564493360" />
+    <state width="1836" height="481" key="GridCell.Tab.0.right" timestamp="1600564493361">
       <screen x="40" y="23" width="3400" height="1417" />
     </state>
-    <state width="1836" height="481" key="GridCell.Tab.0.right/40.23.3400.1417@40.23.3400.1417" timestamp="1600563079507" />
+    <state width="1836" height="481" key="GridCell.Tab.0.right/40.23.3400.1417@40.23.3400.1417" timestamp="1600564493361" />
     <state width="1836" height="501" key="GridCell.Tab.1.bottom" timestamp="1600551869501">
       <screen x="40" y="23" width="3400" height="1417" />
     </state>
